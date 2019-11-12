@@ -29,4 +29,4 @@ yarn run build
 ---
 
 ## 文章地址
-<a href="https://bszhct.github.io/2019/11/11/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%9E%84%E5%BB%BA%E4%B8%80%E6%AC%BE%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7/" target="_blank" rel="noopener">传送门</a>
+[传送门](https://bszhct.github.io/2019/11/11/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%9E%84%E5%BB%BA%E4%B8%80%E6%AC%BE%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7/)
