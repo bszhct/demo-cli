@@ -1,5 +1,5 @@
 {
-  "name": "demo-cli",
+  "name": "@bszhct/demo-cli",
   "version": "1.0.0",
   "description": "从零开始构建一款命令行工具",
   "scripts": {
