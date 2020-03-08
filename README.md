@@ -1,20 +1,24 @@
 # demo-cli
+
 示例之从零开始构建一款命令行工具。
 
----
 
 ## 快速开始
+
 ### 克隆
+
 ```bash
 git clone https://github.com/bszhct/demo-cli.git
 ```
 
 ### 安装依赖
+
 ```bash
 yarn install
 ```
 
 ### 使用
+
 ```bash
 # 调试
 yarn link
